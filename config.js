@@ -1,21 +1,21 @@
 //=============『 Utama 』================== //
-global.owner = ['6281228391267'] 
-global.mods = ['6281228391267'] 
-global.prems = [] 
+global.owner = ['6287773311781'] 
+global.mods = ['6287773311781'] 
+global.prems = ['6287773311781'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Hz22シ︎'
-global.numberowner = '6281228391267'
-global.instagram = 'https://www.instagram.com/hz22yt'
-global.github = 'https://github.com/'
+global.nameowner = 'Hansシ︎'
+global.numberowner = '6287773311781'
+global.instagram = '-'
+global.github = 'https://github.com/HansBotz14/baru'
 global.dana = 'ndak punya'
-global.pulsa = 'chat Hz22'
+global.pulsa = 'chat Hans'
 global.gopay = '-'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'Hz22Botz'
-global.gc = 'https://chat.whatsapp.com/BiNW2fsXbIJJOj5yHq6KHz'
-global.web = 'https://www.youtube.com/channel/hz22yt' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.gc = '-'
+global.web = 'https://github.com/HansBotz14' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://i.postimg.cc/5yPMC6Y3/welcome.jpg' //ganti jadi foto 
 global.fotonya2 = 'https://i.postimg.cc/5yPMC6Y3/welcome.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'Hz22Botz'
+global.wm = 'HansBotz'
 global.watermark = wm
-global.wm2 = '                     「HZ22BOTZ⁩ 」'
-global.wm3 = 'Hz22'
+global.wm2 = '                     「HANSBOTZ⁩ 」'
+global.wm3 = 'Hans'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://i.postimg.cc/5yPMC6Y3/welcome.jpg'
